@@ -1,2 +1,2 @@
 # Excelr-Assignments.
-The archive of internship assignments covers almost all the topics of Machine Learning.
+This repository showcases my proficiency in a diverse range of data science and machine learning techniques. Through a series of assignments, I have hands-on experience in implementing algorithms such as Naive Bayes, KNN, Decision Trees, Neural Networks, and more, reflecting a comprehensive journey through statistical analysis, recommendation systems, text mining, and predictive modeling.
